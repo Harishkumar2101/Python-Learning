@@ -19,3 +19,4 @@ The goal of this project is to build a strong foundation in Python while maintai
 |------------|----------------------------|----------------------------------------|--------------------------------|
 | 2025-08-19 | Git, Lists, <br> OOP, Modules, APIs | README.md, .gitignore, <br> Lists.ipynb, Classes.ipynb, <br> Modules.ipynb, Api.py | Setup GitHub, <br> practiced lists, <br> classes, modules, APIs |
 |2025-08-30| Histogram| Stats/Histogram.ipynb|Learnt And wrote the code for Histogram|
+|2025-09-01| Decarators| Decarators.ipynb|Learnt about decarators|
